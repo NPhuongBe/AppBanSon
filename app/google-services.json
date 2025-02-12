@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "71257550829",
+    "firebase_url": "https://sticklips-c23c5-default-rtdb.firebaseio.com",
+    "project_id": "sticklips-c23c5",
+    "storage_bucket": "sticklips-c23c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71257550829:android:3bb31de28d35beb7e941e4",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXIaTXhEAvThlB1RClfspBaxGMfIM0-io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

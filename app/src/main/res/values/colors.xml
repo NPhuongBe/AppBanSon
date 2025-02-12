@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Thay đổi màu chủ đạo (Primary color) -->
+    <color name="colorPrimary">#008000</color> <!-- Màu xanh lá cây -->
+
+    <!-- Thay đổi màu chủ đạo tối (Dark primary color) -->
+    <color name="colorPrimaryDark">#006400</color> <!-- Màu xanh lá cây tối -->
+
+    <!-- Thay đổi màu nổi bật (Accent color) -->
+    <color name="colorAccent">#ff0000</color> <!-- Màu đỏ -->
+</resources>
